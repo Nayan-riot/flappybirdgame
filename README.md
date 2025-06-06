@@ -5,3 +5,7 @@ Consider it a beta version with some bugs
 it is Still in Developement by Me
 <br>
 To play kindly download python in your pc and also pygames module along that
+<br>
+and then run the flappybirdg.exe / flappybirdg.py file
+<br>
+<h2> For Source Code checkout flappubirdg.py file</h2>
