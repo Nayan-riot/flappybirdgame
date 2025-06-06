@@ -8,4 +8,4 @@ To play kindly download python in your pc and also pygames module along that
 <br>
 and then run the flappybirdg.exe / flappybirdg.py file
 <br>
-<h2> For Source Code checkout flappubirdg.py file</h2>
+<h2> For Source Code checkout flappybirdg.py file</h2>
